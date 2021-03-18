@@ -210,6 +210,5 @@
         "forward_crc_valid": true,
         "forward_crc_error": false,
         "forward_crc_disabled": false,
-        "gps_tty_path": "",
     }
 }
